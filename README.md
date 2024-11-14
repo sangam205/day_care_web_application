@@ -24,7 +24,7 @@ This is a web application designed for a daycare center named <b>Little Angels D
    <ul><li><b>JDBCUtils.java : </b>Manages database connections and operations.</li>
     </ul>
   </ul> 
-  <ul><li><b>src/main/webapp :-</b> Contains HTML and CSS files for the frontend interface.</li></ul><br>
+  <ul><li><b>src/main/webapp :-</b> Contains HTML and CSS files for the frontend interface.</li></ul><br> <br> <br> <br>
 
   <h2>Features :</h2>
   <h3>1. Login Page (Home Page)</h3>
