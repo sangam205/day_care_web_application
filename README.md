@@ -1,5 +1,4 @@
-<h1>Day Care Web Application<h1/> <br>
-
+<h1>Day Care Web Application<h1/>
 <h3>Project Description :</h3> 
 This is a web application designed for a daycare center named <b>Little Angels Day Care</b>, located in Bengaluru. The application provides a simple interface for parents and child care workers to register, log in and view updates on daily activities and special events. <br>
 <h3>Project Structure :</h3>
