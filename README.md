@@ -68,7 +68,5 @@ This is a web application designed for a daycare center named <b>Little Angels D
       <li>Provides two links at the bottom of the page :</li>
     </ul>
     </ul>
-    
-      <ol><li>After successful registration, users are redirected to the login page to log in with their new credentials.</li>
-       </ol>
+    <ol><b>Daily Activities : </b>Shows photos of activities conducted at the daycare.</ol>
    <br> <br>
