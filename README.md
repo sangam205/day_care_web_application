@@ -28,8 +28,9 @@ This is a web application designed for a daycare center named <b>Little Angels D
 
   <h2>Features :</h2>
   <h3>1. Login Page (Home Page)</h3>
-  <li><b>Functionality :</b> The login page serves as the home page.</li>
+  <ul><li><b>Functionality :</b> The login page serves as the home page.</li>
   <li><b>Process :</b></li>
   <ul>
     <li>Users enter their <b>mobile number</b> (username) and <b>password.</b></li>
+  </ul>
   </ul>
