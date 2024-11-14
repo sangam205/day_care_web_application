@@ -33,4 +33,13 @@ This is a web application designed for a daycare center named <b>Little Angels D
   <ul>
     <li>Users enter their <b>mobile number</b> (username) and <b>password.</b></li>
   </ul>
+    <ul>
+      <li>If credentials are correct, they are redirected to the Welcome page.</li>
+    </ul>
+    <ul>
+      <li>If credentials are incorrect, they are directed to an error page with a message prompting for the correct username and password.</li>
+    </ul>
+    <ul>
+      <li>On the error page, an "OK" button returns users to the login page.</li>
+    </ul>
   </ul>
