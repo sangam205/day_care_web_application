@@ -71,6 +71,19 @@ This is a web application designed for a daycare center named <b>Little Angels D
     </ul>
     </ul> <br> <br> <br> <br>
 
-   <h2>Database Structure</h2>
+   <h2>Database Structure :</h2>
+   The application uses MySQL to store user information. Data from the registration form(including name, father's name, mother's name, dob, email,mobile number, password, address and other relevant fields) is saved in the database which is then accessed during login for authentication. During log in, they need username i.e mobile number and password.
+   <br> <br> <br> <br>
+
+   <h2>Usage Instructions :</h2>
+   <ol><li><b>Register : </b>If you are a new user, click the "New User, Kindly Register Here..." link on the login page, fill out the registration form and submit it.</li>
+   <li><b>Login :</b> Enter your registered mobile number and password on the login page.</li>
+     <li><b>Navigation : 
+     <ul>
+       <li>After logging in, you'll be taken to the Welcome page.</li> </ul>
+       <ul>
+         <li>From the Welcome page, you can view photos of daily activities and events.</li></ul>
+     </li>
+   </ol>
 
     
