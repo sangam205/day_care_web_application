@@ -89,7 +89,27 @@ This is a web application designed for a daycare center named <b>Little Angels D
 
     
 
-![Screenshot 2024-11-14 153318](https://github.com/user-attachments/assets/16397efb-64a7-4cae-94e5-617964dae4a2)  <br> <br>
+![Screenshot 2024-11-14 153318](https://github.com/user-attachments/assets/16397efb-64a7-4cae-94e5-617964dae4a2)    <br> <br>
 
-![Screenshot 2024-11-14 160938](https://github.com/user-attachments/assets/ef499d8f-ab3e-464e-aaf8-9a24e6a41e07)
+![Screenshot 2024-11-14 160938](https://github.com/user-attachments/assets/ef499d8f-ab3e-464e-aaf8-9a24e6a41e07)    <br> <br>
+
+![Screenshot 2024-11-14 161025](https://github.com/user-attachments/assets/40f44a27-85ca-4372-9c7e-cdf3e293d169)    <br> <br>
+
+![Screenshot 2024-11-14 161218](https://github.com/user-attachments/assets/1bcbb52e-708f-43e3-80ed-b3ff92ec7e30)    <br> <br>
+
+![Screenshot 2024-11-14 161305](https://github.com/user-attachments/assets/37fbe548-3848-4827-bd6c-f68aa3392a02)    <br> <br>
+
+![Screenshot 2024-11-14 161423](https://github.com/user-attachments/assets/63a1d864-8359-4740-b96c-6149984c3e08)     <br> <br>
+
+![Screenshot 2024-11-14 161512](https://github.com/user-attachments/assets/9cbb75f0-2097-4a8a-952a-814f7643aa5d)     <br> <br>
+
+![Screenshot 2024-11-14 190316](https://github.com/user-attachments/assets/512b90db-dd2c-45ce-ad54-4f7ab9725b3b)     <br> <br>
+
+![Screenshot 2024-11-14 161901](https://github.com/user-attachments/assets/9915af30-9e17-47b3-b4dc-e454c65120eb)
+
+
+
+
+
+
 
