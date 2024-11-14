@@ -71,6 +71,6 @@ This is a web application designed for a daycare center named <b>Little Angels D
     </ul>
     </ul> <br> <br> <br> <br>
 
-    <h2>Database Structure</h2>
+   <h2>Database Structure</h2>
 
     
