@@ -9,7 +9,7 @@ This is a web application designed for a daycare center named <b>Little Angels D
   <li><b>Server : </b>Apache Tomcat 10.1</li>
   <li><b>IDE : </b>Eclipse</li>
 </ul> <br>
-<li><h3>Project Folders :</h3></li>
+<h4>Project Folders :</h4>
 <ul><li>src/main/java</li><br>
   <li><b>com.fc.servlet : </b>Contains servlets for handling login and registration : </li>
    <ul><li><b>LoginServlet.java : </b>Manages user authentication.</li>
