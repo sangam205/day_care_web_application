@@ -42,4 +42,19 @@ This is a web application designed for a daycare center named <b>Little Angels D
     <ul>
       <li>On the error page, an "OK" button returns users to the login page.</li>
     </ul>
+    <li><b>New User Registration :</b> A link at the bottom returns users to the login page.</li>
+  </ul> <br> <br>
+
+  <h3>2. Registration Page</h3>
+  <ul><li><b>Functionality :</b> Allows new users to register with their details.</li>
+  <li><b>Process :</b></li>
+  <ul>
+    <li>Users fill in the registration form and click the "Submit" button.</li>
   </ul>
+    <ul>
+      <li>Data entered is saved in the MySQL database.</li>
+    </ul>
+    <ul>
+      <li>After successful registration, users are redirected to the login page to log in with their new credentials.</li>
+    </ul>
+  </ul> <br> <br>
