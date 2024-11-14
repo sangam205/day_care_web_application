@@ -1,4 +1,4 @@
 # Day Care Web Application
 
-<br> <br>
+<br> 
 Please check "my-new-branch".
