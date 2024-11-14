@@ -78,7 +78,7 @@ This is a web application designed for a daycare center named <b>Little Angels D
    <h2>Usage Instructions :</h2>
    <ol><li><b>Register : </b>If you are a new user, click the "New User, Kindly Register Here..." link on the login page, fill out the registration form and submit it.</li>
    <li><b>Login :</b> Enter your registered mobile number and password on the login page.</li>
-     <li><b>Navigation : 
+     <li><b>Navigation : </b>
      <ul>
        <li>After logging in, you'll be taken to the Welcome page.</li> </ul>
        <ul>
