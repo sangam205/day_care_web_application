@@ -16,4 +16,8 @@ This is a web application designed for a daycare center named <b>Little Angels D
     </ul>
     <ul><li><b>RegisterServlet.java : </b>Handles new user registration.</li>
     </ul>
+</ul> <br>
+<li><b>com.fc.util : </b>Contains utility classes :- </li>
+   <ul><li><b>JDBCUtils.java : </b>Manages database connections and operations.</li>
+    </ul>
 </ul>
