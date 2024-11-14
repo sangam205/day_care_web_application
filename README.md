@@ -2,7 +2,7 @@
 <h2>Project Description :</h2> 
 This is a web application designed for a daycare center named <b>Little Angels Day Care</b>, located in Bengaluru. The application provides a simple interface for parents and child care workers to register, log in and view updates on daily activities and special events. <br>
 <h2>Project Structure :</h2>
-<li><h3>Technologies Used :</h3></li> 
+<h3>Technologies Used :</h3> 
 <ul><li><b>Frontend : </b>HTML5, CSS3</li>
 <li><b>Backend : </b>Java Servlets 6.0, Java SE 21</li>
   <li><b>Database : </b>MySQL</li>
