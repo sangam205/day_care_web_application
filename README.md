@@ -84,6 +84,7 @@ This is a web application designed for a daycare center named <b>Little Angels D
        <ul>
          <li>From the Welcome page, you can view photos of daily activities and events.</li></ul>
      </li>
-   </ol>
+   </ol>  
+   <br> <br> <br> <br>
 
     
