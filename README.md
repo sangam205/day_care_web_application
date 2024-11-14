@@ -67,6 +67,7 @@ This is a web application designed for a daycare center named <b>Little Angels D
     <ul>
       <li>Provides two links at the bottom of the page :</li>
        <ol><li><b>Daily Activities : </b>Shows photos of activities conducted at the daycare.</li></ol>
+      <ol><li><b>Events : </b>Displays photos of occassional events held at Little Angels.</li></ol>
     </ul>
     </ul>
    
