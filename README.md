@@ -87,8 +87,5 @@ This is a web application designed for a daycare center named <b>Little Angels D
    </ol>  
    <br> <br> <br> <br>
 
-    ![Screenshot 2024-11-14 153318](https://github.com/user-attachments/assets/bd13aa9c-1217-45c1-9adb-84131c5e0155)   <br><br>
-
-    ![Screenshot 2024-11-14 160938](https://github.com/user-attachments/assets/7c51c2e8-53f7-4a90-9450-8ca5b6fe1722)   <br><br>
-
+    
 
