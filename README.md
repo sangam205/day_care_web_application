@@ -105,7 +105,7 @@ This is a web application designed for a daycare center named <b>Little Angels D
 
 ![Screenshot 2024-11-14 190316](https://github.com/user-attachments/assets/512b90db-dd2c-45ce-ad54-4f7ab9725b3b)     <br> <br>
 
-![Screenshot 2024-11-14 161901](https://github.com/user-attachments/assets/9915af30-9e17-47b3-b4dc-e454c65120eb)
+![Screenshot 2024-11-14 161901](https://github.com/user-attachments/assets/9915af30-9e17-47b3-b4dc-e454c65120eb)     <br> <br>
 
 
 
