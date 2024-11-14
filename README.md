@@ -21,3 +21,4 @@ This is a web application designed for a daycare center named <b>Little Angels D
    <ul><li><b>JDBCUtils.java : </b>Manages database connections and operations.</li>
     </ul>
   </ul> 
+  <ul><li><b>src/main/webapp/ :-</b></li></ul><br>
