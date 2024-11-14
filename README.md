@@ -11,10 +11,9 @@ This is a web application designed for a daycare center named <b>Little Angels D
 </ul> <br>
 <li><b>Project Folders :</b></li>
 <ul><li>src/main/java</li><br>
-  <li><b>com.fc.servlet : </li>
-    Contains servlets for handling login and registration : 
-    <ul><li>LoginServlet.java : </li>
-    Manages user authentication.</ul>
-    <ul><li>RegisterServlet.java : </li>
-    Handles new user registration.</ul>
+  <li><b>com.fc.servlet : <p>Contains servlets for handling login and registration : </p></li>
+   <ul><li>LoginServlet.java : <p>Manages user authentication.</p></li>
+    </ul>
+    <ul><li>RegisterServlet.java : <p>Handles new user registration.</p></li>
+    </ul>
 </ul>
