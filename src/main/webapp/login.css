@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body {
+	background: url("images/2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+	color: #bd005f;
+}
+
+h2 {
+	text-align: center;
+	font-size: 40px;
+	color: #0000ff;
+}
+
+form {
+	text-align: center;
+	font-size: 30px;
+	color: #95008d;
+}  
+
+form input {
+	font-size: 30px;
+	color: #0d25ff;
+	background-color: #c4ffc4;
+	
+}
+
+ div {
+	text-align: center;
+	font-size: 40px;
+	
+}
+
+a {
+	color: #0000ff;
+}
+
+
+
+

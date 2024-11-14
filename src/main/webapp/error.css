@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+h1 {
+	text-align: center;
+	font-weight: bolder;
+	font-size: 40px;
+	color: blue;
+}
+
+body {
+	background-image: url("images/3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+div {
+	text-align: center;
+}
+
+a button{
+	font-weight: bolder;
+	font-size: 40px;
+	background-color: #9bff9b;
+	color: #be03a3;
+}

@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+	background-image: url("images/4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+	color: maroon;
+}
+
+form {
+	text-align: center;
+	font-size: 17px;
+	font-weight: bold;
+	color: #0000ff;
+	
+}
+
+#button {
+	font-size: 20px;
+	font-weight: bold;
+	color: #800080;
+	background-color: #caff99;
+	
+}
+
+
