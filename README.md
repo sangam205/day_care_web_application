@@ -10,7 +10,7 @@ This is a web application designed for a daycare center named <b>Little Angels D
   <li><b>IDE : </b>Eclipse</li>
 </ul> <br>
 <h3>Project Folders :</h3>
-<ul><li style="list-style-type:disc;"><b>src/main/java</b></li><br>
+<ul><li style="list-style-type🔵;"><b>src/main/java</b></li><br>
   <li><b>com.fc.servlet : </b>Contains servlets for handling login and registration : </li>
    <ul><li><b>LoginServlet.java : </b>Manages user authentication.</li>
     </ul>
