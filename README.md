@@ -52,7 +52,7 @@ This is a web application designed for a daycare center named <b>Little Angels D
     <li>Users fill in the registration form and click the "Submit" button.</li>
   </ul>
     <ul>
-      <li>Data entered is saved in the MySQL database.</li>
+      <li>Data entered is saved in the MySQL database using JDBC.</li>
     </ul>
     <ul>
       <li>After successful registration, users are redirected to the login page to log in with their new credentials.</li>
