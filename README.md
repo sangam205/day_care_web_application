@@ -6,7 +6,7 @@ This is a web application designed for a daycare center named <b>Little Angels D
 <h2>Project Structure :</h2>
 <h3>Technologies Used :</h3> 
 <ul><li><b>Frontend : </b>HTML5, CSS3</li>
-<li><b>Backend : </b>Java Servlets 6.0, Java SE 21</li>
+<li><b>Backend : </b>Java Servlets 6.0, Java SE 21, JDBC</li>
   <li><b>Database : </b>MySQL</li>
   <li><b>Server : </b>Apache Tomcat 10.1</li>
   <li><b>IDE : </b>Eclipse</li>
