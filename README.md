@@ -42,7 +42,7 @@ This is a web application designed for a daycare center named <b>Little Angels D
     <ul>
       <li>On the error page, an "OK" button returns users to the login page.</li>
     </ul>
-    <li><b>New User Registration :</b> A link at the bottom returns users to the login page.</li>
+    <li><b>New User Registration :</b> A link at the bottom of the login page allows new users to navigate to the registration page.</li>
   </ul> <br> <br>
 
   <h3>2. Registration Page</h3>
