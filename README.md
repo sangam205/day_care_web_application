@@ -72,7 +72,7 @@ This is a web application designed for a daycare center named <b>Little Angels D
     </ul> <br> <br> <br> <br>
 
    <h2>Database Structure :</h2>
-   The application uses MySQL to store user information. Data from the registration form(including name, father's name, mother's name, dob, email,mobile number, password, address and other relevant fields) is saved in the database which is then accessed during login for authentication. During log in, they need username i.e mobile number and password.
+   The application uses MySQL to store user information. Data from the registration form(including name, father's name, mother's name, dob, email,mobile number, password, address and other relevant fields) is saved in the database using JDBC which is then accessed during login for authentication. During log in, they need username i.e mobile number and password.
    <br> <br> <br> <br>
 
    <h2>Usage Instructions :</h2>
